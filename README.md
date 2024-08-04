@@ -8,6 +8,9 @@
 
 **Other Timezones I can work in**:  I can sustainably overlap 4-5 hrs with Eastern/Pacific time or similarly with other timezones
 
+**Tell us about a time where you had to work on a task that seemed to be extremely challenging, and how you overcame it?**
+- I've attempted to answer this question in a document [here](https://sadhakforlife.notion.site/Tell-us-about-a-time-where-you-had-to-work-on-a-task-that-seemed-to-be-extremely-challenging-and-ho-3ba71734ca1b4404ac3d89b74df59717)
+
 **How I intend to be of service** as a (Freelance) Senior/Staff Backend engineer/consultant:
 
 - From building **MVPs** to working on **large-scale Ruby on Rails apps**, as a software engineer:
