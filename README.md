@@ -1,4 +1,4 @@
-## Joyful Greetings for the day ☀️ 🌱 🙂 
+## Joyful Greetings for the day ☀️ 🌱 🙂 🪷
 
 **Work experience**: Programmer(12+ yrs, [Résumé](https://drive.google.com/file/d/10kOVqAxCgsI7_kNAtUW4aXIuuzs1DqFL/view?usp=sharing)) | **Rails(10+ yrs, [Code sample](https://github.com/boddhisattva/mars_rover/))** |  Independent Software consultant(3+ yrs)
 
@@ -30,4 +30,12 @@
 - Having other ideas in mind? I look forward to discussing other collaboration opportunities together :)
 
 If you are or you know someone who is looking for a **human-centered programmer** with some or all of the above mentioned experience/skills and if you think I could be a good fit for such opportunities, I'd sincerely appreciate your reaching out to me(via: **mail4mohnishj@gmail.com**) or spreading the word, thank you :) 
+
+**P.S**: 
+
+1. **I'm open to discuss contract to full time hire roles too**, however there's a current need(happy to discuss the reasons transparently over a call) for me to start work as a contractor/freelancer.
+
+2. I have intentionally removed my contact number from my public résumé above. Happy to share it via email if needed.
+
+3. I'm happy to share references as needed. If you'd like to speak to an ex colleague of mine about my work, I can also arrange the same as needed. On a related note, some of my [ex colleagues have also recommend my work on LinkedIn](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
 
