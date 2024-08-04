@@ -2,7 +2,7 @@
 
 **Work experience**: Programmer(12+ yrs, [Résumé](https://drive.google.com/file/d/10kOVqAxCgsI7_kNAtUW4aXIuuzs1DqFL/view?usp=sharing)) | **Rails(10+ yrs, [Code sample](https://github.com/boddhisattva/mars_rover/))** |  Independent Software consultant(3+ yrs)
 
-**About**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy** is a core value amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) .
+**About**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy** is a core value amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) | I'm **currently exploring new work related collaboration opportunities**
 
 **Location**: I'm based in Berlin, Germany (it currently corresponds to CEST timezone)
 
