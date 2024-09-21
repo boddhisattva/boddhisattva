@@ -6,6 +6,8 @@
 
 **Location**: I'm based in Berlin, Germany (it currently corresponds to CEST timezone)
 
+**Blog**: [Current Blog](https://www.mohnishjadwani.com/) | [Old Medium Blog ](https://medium.com/@mohnishgj)
+
 **Other Timezones I can work in**:  I can sustainably overlap 4-5 hrs with Eastern/Pacific time or similarly with other timezones
 
 **Tell us about a time where you had to work on a task that seemed to be extremely challenging, and how you overcame it?**
