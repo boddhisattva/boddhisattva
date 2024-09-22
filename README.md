@@ -5,7 +5,7 @@
 - **About**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy** is a core value amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
 
   - **Location**: I'm based in Berlin, Germany (it currently corresponds to CEST timezone)
-    - **Timezones I can work in**: In addition to work in CEST time zone, **I can sustainably overlap** 4-5 hrs with Eastern/Pacific time for **Companies in America** or similarly with other timezones(like in **Asia** if needed)
+    - **Timezones I can work in**: In addition to work in CEST time zone, **I can sustainably overlap** **4-5 hours** with Eastern/Pacific time for **Companies in America** or similarly with other timezones(like in **Asia** if needed)
 
 - **Currently**: **Actively exploring new contractual work** related collaboration opportunities
 
