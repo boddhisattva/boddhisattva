@@ -7,13 +7,16 @@
   - **Location**: I'm based in Berlin, Germany (it currently corresponds to CEST timezone)
     - **Timezones I can work in**: In addition to work in CEST time zone, **I can sustainably overlap 4-5 hrs** with Eastern/Pacific time for **Companies in America** or similarly with other timezones(like in **Asia** if needed)
 
+- **Code Samples, Blog & References**
+   - **Open Source Contributions** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) 
+   - **Blog**: [Current Blog](https://www.mohnishjadwani.com/) | [Old Medium Blog ](https://medium.com/@mohnishgj)   
+   - **References** can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+     - On a related note, some ex colleagues recommendations are available on LinkedIn [here](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
+     - 
 - **Currently**: **Actively exploring new contractual work** related collaboration opportunities
 
-- **Other Details**
-   - **Open Source Contributions**: Please see the `tech_work_samples.md` section below
-   - **Blog**: [Current Blog](https://www.mohnishjadwani.com/) | [Old Medium Blog ](https://medium.com/@mohnishgj)
-   - **Contact Details**: mail4mohnishj@gmail.com
-   - **References**: Please see the `past_work_references.md` section below
+- **Contact Details to explore mutual collaboration opportunities**
+  - You are welcome to [setup a connect call](https://calendly.com/sadhakforlife/explore-how-we-could-collaborate-together) with me or email me via mail4mohnishj@gmail.com to explore how we can work as a team
 
 ## How I intend to be of service as a Ruby on Rails consultant:
 
@@ -34,17 +37,12 @@
 
 - **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish) for a while now), or even just being a sounding board
 
-- **Examples of Open source wor**k and more recent code samples are present [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
-
-- In case you are looking for [References](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c), please find them in a file below this one.
-  - On a related note, some of my [ex colleagues have also recommend my work on LinkedIn](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
-
 ## Having other ideas in mind on how you'd like to collaborate?
  - I look forward to discussing other collaboration opportunities together :). You can find my contact details below.
 
 ## Last but not the least
 
-If you are or you know someone who is looking for a **human-centered programmer** with some or all of the above mentioned experience/skills and if you think I could be a good fit for such opportunities, I'd sincerely appreciate your reaching out to me(via the contact details below) or spreading the word, thank you :) 
+If you are or you know someone who is looking for a **human-centered programmer** with some or all of the above mentioned experience/skills and if you think I could be a good fit for such opportunities, I'd sincerely appreciate your reaching out to me(via the contact details above) or spreading the word, thank you :) 
 
 **P.S**: 
 
