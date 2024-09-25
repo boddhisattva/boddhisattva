@@ -12,7 +12,7 @@
    - **Blog**: [Current Blog](https://www.mohnishjadwani.com/) | [Old Medium Blog ](https://medium.com/@mohnishgj)   
    - **References** can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
      - On a related note, some ex colleagues recommendations are available on LinkedIn [here](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
-     - 
+       
 - **Currently**: **Actively exploring new contractual work** related collaboration opportunities
 
 - **Contact Details to explore mutual collaboration opportunities**
