@@ -10,7 +10,7 @@
 - **Code Samples, Blog & References**
    - **Open Source Contributions** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) 
    - **Blog**: [Current Blog](https://www.mohnishjadwani.com/) | [Old Medium Blog ](https://medium.com/@mohnishgj)   
-   - **References** can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+   - **References** can be found [here](https://gist.github.com/boddhisattva/b06989258aa46eaf58848dfcf9e35a60)
      - On a related note, some ex colleagues recommendations are available on LinkedIn [here](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
        
 - **Currently**: **Actively exploring new contractual work** related collaboration opportunities
