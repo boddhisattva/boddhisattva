@@ -38,6 +38,7 @@
 - **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish) for a while now), or even just being a sounding board
 
 ## Having other ideas in mind on how you'd like to collaborate?
+ - I also value [serving as a teams coach](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/)
  - I look forward to discussing other collaboration opportunities together :). You can find my contact details below.
 
 ## Last but not the least
