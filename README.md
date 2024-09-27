@@ -6,7 +6,7 @@
 
   - **Location**: Berlin, Germany. I **care about building in person human connections** & that way I'm **open to periodical in person visits**.
 
-  - **Timezones I can work in**: **Open to remote work opportunities with companies in Europen, America, Asia & Oceania**. Can sustainably overlap 4-5 hrs with companies outside Europe. 
+  - **Timezones I can work in**: **Open to remote work opportunities with companies in Europe, America, Asia & Oceania**. Can sustainably overlap 4-5 hrs with companies outside Europe. 
 
 - **Code Samples, Blog & References**
    - **Open Source Contributions** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) 
