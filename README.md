@@ -1,11 +1,12 @@
 ## Introduction
 
-- **Work experience**: Programmer(12+ yrs, [Résumé](https://bit.ly/résumé_mohnish)) | **Rails(10+ yrs, [Code sample](https://bit.ly/mohnish_code_sample))** |  Software consultant(3+ yrs)
+- **Work experience**: Programmer(12+ yrs, [Résumé](https://bit.ly/résumé_mohnish)) | **Rails(10+ yrs, [Code sample](https://bit.ly/mohnish_code_sample))** |  Software **consultant([Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/), [Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
 
 - **About**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy** is a core value amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
 
-  - **Location**: Berlin, Germany (it currently corresponds to CEST timezone)
-    - **Timezones I can work in**: CEST time with +/- 2-3 hrs | **Can sustainably overlap 4-5 hrs** with Eastern/Pacific time for **Companies in America** or similarly with other timezones(like in **Asia** if needed)
+  - **Location**: Berlin, Germany. I **care about building in person human connections** & that way I'm **open to periodical in person visits**.
+
+  - **Timezones I can work in**: **Open to remote work opportunities with companies in Europen, America, Asia & Oceania**. Can sustainably overlap 4-5 hrs with companies outside Europe. 
 
 - **Code Samples, Blog & References**
    - **Open Source Contributions** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) 
