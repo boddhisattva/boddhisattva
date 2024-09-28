@@ -40,7 +40,7 @@
 
 ## Having other ideas in mind on how you'd like to collaborate?
  - I also value [serving as a teams coach](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/)
- - I look forward to discussing other collaboration opportunities together :). You can find my contact details below.
+ - I look forward to discussing other collaboration opportunities together :)
 
 ## Last but not the least
 
