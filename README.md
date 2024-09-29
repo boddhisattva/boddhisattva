@@ -4,11 +4,11 @@
 
 - **As a person**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy is a core value** amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
 
-  - **Location & Work preferences**: Based in Berlin, Germany
-    - Open to working remotely with companies worldwide(can sustainbly overlap with other timezones for 4-5 hrs)
-    - Also value periodical in person visits as I care about the genuine human connection in builds
+- **Location & Work preferences**: Based in Berlin, Germany
+  - Open to working remotely with companies worldwide(can sustainbly overlap with other timezones for 4-5 hrs)
+  - Also value periodical in person visits as I care about the genuine human connection in builds
   
-  - **Code Samples, Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+- **Code Samples & Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
    
 - **Contact Details**: [Setup a connect call](https://calendly.com/sadhakforlife/explore-how-we-could-collaborate-together) | mail4mohnishj@gmail.com 
   
