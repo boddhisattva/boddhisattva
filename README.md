@@ -6,7 +6,7 @@
 
 - **Location & Work preferences**: Based in Berlin, Germany
   - Open to working remotely with companies worldwide(can sustainbly overlap with other timezones for 4-5 hrs)
-  - Also value periodical in person visits as I care about the genuine human connection in builds
+  - Also value periodical in person visits as I care about the genuine human connection it builds
   
 - **Code Samples & Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
    
