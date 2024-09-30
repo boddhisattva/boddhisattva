@@ -28,7 +28,7 @@
 
 - Many people have told me **communication** is one of my **strengths** & I’d be happy to put that to good use
 
-- There is a saying failure can teach you a lot more than success. Having **worked** in **International teams(based in Singapore, UK and currently Germany) for almost 7 years** has **taught me**(some the hard way) a lot about **what key ingredients make great teams**. I’d be happy to leverage this experience if & when needed
+- There is a saying failure can teach you a lot more than success. Having **worked** in **International teams(based in Singapore, UK and currently Germany) for 7+ years** has **taught me**(some the hard way) a lot about **what key ingredients make great teams**. I’d be happy to leverage this experience if & when needed
 
 - **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish) for a while now), or even just being a sounding board
 
