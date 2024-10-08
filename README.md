@@ -1,6 +1,6 @@
 ## About
 
-- **Work summary**: Programmer(12+ yrs, [Résumé](https://bit.ly/résumé_mohnish)) | **Rails(10+ yrs, [Code sample](https://bit.ly/mohnish_code_sample))** |  Software **consultant([Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/), [Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
+- **Work summary**: Programmer(12+ yrs, [Résumé](https://bit.ly/résumé_mohnish)) | **Rails(10+ yrs, [Code sample](https://github.com/boddhisattva/learner-web))** |  Software **consultant([Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/), [Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
 
 - **As a person**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy is a core value** amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
 
