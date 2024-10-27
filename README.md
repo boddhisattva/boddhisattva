@@ -10,7 +10,7 @@
   
 - **Code Samples & Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
    
-- **Contact Details**: [Setup a connect call](https://calendly.com/sadhakforlife/explore-how-we-could-collaborate-together) | mail4mohnishj@gmail.com 
+- **Contact Details**: mail4mohnishj@gmail.com 
   
 
 ## How I intend to be of service as a Ruby on Rails consultant:
