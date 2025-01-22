@@ -13,7 +13,7 @@
 - **Contact Details**: mail4mohnishj@gmail.com 
   
 
-## How I intend to be of service as a Ruby on Rails consultant in a Start up/Scale Up(as a Co-founder/CTO/Fractional CTO/Lead Software engineer role):
+## How I intend to be of service as a Ruby on Rails consultant in a Start up/Scale Up(as Fractional CTO/Interim Lead Software engineer role):
 
 - From building **MVPs** to working on **large-scale Ruby on Rails apps**, as a software engineer:
   - I have experience with
