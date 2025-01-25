@@ -8,7 +8,7 @@
    
 ## A little more about me:
 
-- **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish) for a while now), or even just being a sounding board
+- **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I **have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish)** for a while now), or even just being a sounding board
   
 - From building **MVPs** to working on **large-scale Ruby on Rails apps**, as a software engineer:
   - I have experience with
