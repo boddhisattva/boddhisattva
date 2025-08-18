@@ -1,10 +1,12 @@
 ## About
 
-- **Work summary**: Programmer(12+ yrs, [Résumé](https://docs.google.com/document/d/1Lk4blGgxbwszaPLD-cE-pmzC9OM_9jYuY_dlYLnI6DQ/edit?usp=sharing) | **[Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/)(10+ yrs, [Code sample](https://github.com/boddhisattva/crm))** |  Lead Dev(1.5 yrs) | **Consultant([Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
+- **Work summary**: Programmer(12+ yrs, [Résumé](https://drive.google.com/file/d/1OyRx9dxEHJmktnelEDHtLdj2CfLDRKZn/view?usp=sharing) | **[Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/)(10+ yrs, [Code sample](https://github.com/boddhisattva/crm))** |  Lead Dev(1.5 yrs) | **Consultant([Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
 
 - **As a person**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy is a core value** amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
   
 - **Code Samples & Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+  
+- **Contact**: Please feel free to get connected via: mail4mohnishj@gmail.com
    
 ## A little more about me:
 
@@ -26,4 +28,4 @@
 - There is a saying failure can teach you a lot more than success. Having **worked** in **International teams(based in Singapore, UK and currently Germany) for 7+ years** has **taught me**(some the hard way) a lot about **what key ingredients make great international teams**. 
 
 
-
+P.S: The phone number from the above résumé is intentionally redacted as the above résumé is made publicly available.
