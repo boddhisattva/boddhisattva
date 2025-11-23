@@ -4,7 +4,7 @@
 
 - **As a person**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy is a core value** amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
   
-- **Code Samples & Blog**: Can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+- [Code Samples](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) | [Current Blog](https://awellroundedengineer.substack.com/) | [Old Blog](https://medium.com/@mohnishgj)
   
 - **Contact**: Please feel free to get connected via: mail4mohnishj@gmail.com
    
@@ -14,14 +14,17 @@
   
 - From building **MVPs** to working on **large-scale Ruby on Rails apps**, as a software engineer:
   - I have experience with
+    -   **Building and Leading projects from scratch**
     -   Using **[Packs-Rails](https://github.com/rubyatscale/packs-rails)**, **Sorbet**, Rails engines, **Elasticsearch**, RabbitMQ, **Redis** etc.,
     -   **Improving performance and observability** of Rails apps(using Datadog, Redash, New Relic etc.,)
-    -   Debugging, maintaining, refactoring & enhancing Rails apps
-    -   **Leading projects**
+    -   Enhancing, maintaining, debugging, refactoring Rails apps in ways that **reduce costs for future change**
 
   - I **care about**(in addition to what's previously mentioned above)
+    - Problem solving **using different thinking mechansims**(first principles, systems thinking, out of the box, second order etc.,) based on the situational context, current company stage and related priorities
+    - Having a **shared team vision** & agreeing on **shared mental models** as that genuinely creates a better team chemistry through involvement & whose byproduct is more naturally one where the sum of the whole is greater than the parts    
     - **Being product minded**
-    - Collaborating with different stakeholders(including members of other teams & end users) to better serve everyone
+    - **Creating an environment** where **feedback & open ended conversations can happen more easily in teams** such that it allows us to **improve faster** & keep our **blindspots & unconscious biases in constant check** as part of a **learning organisation**
+    - **Collaborating with different stakeholders**(including members of other teams & end users) to better serve everyone
 
 - Many people have told me **communication** is one of my **strengths** & I’d be happy to put that to good use
 
