@@ -1,10 +1,10 @@
 ## About
 
-- **Work summary**: Programmer(12+ yrs, [Résumé](https://drive.google.com/file/d/1OyRx9dxEHJmktnelEDHtLdj2CfLDRKZn/view?usp=sharing) | **[Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/)(10+ yrs, [Code sample](https://github.com/boddhisattva/crm))** |  Lead Dev(1.5 yrs) | **Consultant([Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
+- **Work summary**: Programmer(12+ yrs, [Résumé](https://drive.google.com/file/d/1UEi7A5GKOBE4CoyMWWW4I6bmCZeKwnRN/view?usp=sharing) | **[Rails](https://www.mohnishjadwani.com/being_of_service_as_a_rails_consultant/)(10+ yrs, [Code sample](https://github.com/boddhisattva/crm))** |  Lead Dev(1.5 yrs) | **Consultant([Team coaching](https://www.mohnishjadwani.com/being_of_service_as_a_team_coach/))**
 
 - **As a person**: Mohnish **cares about people & his work**. As a **fellow human**, **empathy is a core value** amongst [other human & engineering values](https://bit.ly/mohnish_human_and_engineering_values) 
   
-- [Code Samples](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) | [Current Blog](https://awellroundedengineer.substack.com/) | [Old Blog](https://medium.com/@mohnishgj)
+- [Other Code Samples](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c) | [Current Blog](https://awellroundedengineer.substack.com/) | [Old Blog](https://medium.com/@mohnishgj) | [LinkedIn](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
   
 - **Contact**: Please feel free to get connected via: mail4mohnishj@gmail.com
    
