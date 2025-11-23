@@ -20,7 +20,7 @@
     -   Enhancing, maintaining, debugging, refactoring Rails apps in ways that **reduce costs for future change**
 
   - I **care about**(in addition to what's previously mentioned above)
-    - Problem solving **using different thinking mechansims**(first principles, systems thinking, out of the box, second order etc.,) based on the situational context, current company stage and related priorities
+    - Problem solving **using different mental models**(first principles, systems thinking, out of the box, second order etc.,) based on the situational context, current company stage and related priorities
     - Having a **shared team vision** & agreeing on **shared mental models** as that genuinely creates a better team chemistry through involvement & whose byproduct is more naturally one where the sum of the whole is greater than the parts    
     - **Being product minded**
     - **Creating an environment** where **feedback & open ended conversations can happen more easily in teams** such that it allows us to **improve faster** & keep our **blindspots & unconscious biases in constant check** as part of a **learning organisation**
