@@ -23,7 +23,7 @@
     - Problem solving **using different mental models**(first principles, systems thinking, out of the box, second order etc.,) based on the situational context, current company stage and related priorities
     - Having a **shared team vision** & agreeing on **shared mental models** as that genuinely creates a better team chemistry through involvement & whose byproduct is more naturally one where the sum of the whole is greater than the parts    
     - **Being product minded**
-    - **Creating an environment** where **feedback & open ended conversations can happen more easily in teams** such that it allows us to **improve faster** & keep our **blindspots & unconscious biases in constant check** as part of a **learning organisation**
+    - **Creating an environment** where **feedback & open ended conversations can happen more easily in teams** such that it allows us to **improve faster** & keep our **blindspots & unconscious biases in constant check** as part of a **continuously learning organisation**
     - **Collaborating with different stakeholders**(including members of other teams & end users) to better serve everyone
 
 - Many people have told me **communication** is one of my **strengths** & I’d be happy to put that to good use
