@@ -15,7 +15,7 @@
 - From building **MVPs** to working on **large-scale Ruby on Rails apps**, as a software engineer:
   - I have experience with
     -   **Building and Leading projects from scratch**
-    -   Using **[Packs-Rails](https://github.com/rubyatscale/packs-rails)**, **Sorbet**, Rails engines, **Elasticsearch**, RabbitMQ, **Redis** etc.,
+    -   Using **Hotwire**, **[Packs-Rails](https://github.com/rubyatscale/packs-rails)**, **Sorbet**, Rails engines, **Elasticsearch**, RabbitMQ, **Redis** etc.,
     -   **Improving performance and observability** of Rails apps(using Datadog, Redash, New Relic etc.,)
     -   Enhancing, maintaining, debugging, refactoring Rails apps in ways that **reduce costs for future change**
 
